@@ -9,7 +9,7 @@ In this project, I work with real-life data provided by Bertelsmann partners AZ 
 - Identify_Customer_Segments.html: html version of python notebook <br>
 - Data_Dictionary.md: meanings of variables <br>
 
-## Summary of the steps taken
+## Summary of Project Steps
 
 There are two main sources of data: Demographics data of a general population and data of current customers. Comparing these datasets can help with targeting for a marketing campaign. <br>
 
